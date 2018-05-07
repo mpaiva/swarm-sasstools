@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ADF548AB-A6E6-45B7-91DD-DDF1B880D4BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F39A5A6-D596-4ADF-99D3-71E829683ED6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E17F1EC6-6F2A-4433-B88D-A356CE679F87",
+    "height": 40,
+    "width": 300,
+    "x": 787,
+    "y": 451
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "token",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A165BE60-DAC3-472C-8937-1165308984CF_stringValue",
+      "value": "line-height"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6EF24102-A752-4326-96F6-3462C9A315D2_stringValue",
+      "value": "$line-height-largeText  // 35.2px"
+    }
+  ],
+  "overrides": {
+    "6EF24102-A752-4326-96F6-3462C9A315D2": "$line-height-largeText  // 35.2px",
+    "A165BE60-DAC3-472C-8937-1165308984CF": "line-height"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ABDA06EB-1334-4C72-AF43-5F6A812438AF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2F5631FB-EA67-44F1-8839-4A48716EA9EC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

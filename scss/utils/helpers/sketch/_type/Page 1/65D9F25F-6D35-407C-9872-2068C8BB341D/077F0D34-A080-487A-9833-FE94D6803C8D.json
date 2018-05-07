@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "077F0D34-A080-487A-9833-FE94D6803C8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "443639DF-5F86-44C9-8FB3-384056233580",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "36CBD0DC-627E-4D98-BE48-D2B7305BEF29",
+    "height": 40,
+    "width": 300,
+    "x": 1087,
+    "y": 941
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "token",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A165BE60-DAC3-472C-8937-1165308984CF_stringValue",
+      "value": "font-weight"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6EF24102-A752-4326-96F6-3462C9A315D2_stringValue",
+      "value": "$W_normal"
+    }
+  ],
+  "overrides": {
+    "6EF24102-A752-4326-96F6-3462C9A315D2": "$W_normal",
+    "A165BE60-DAC3-472C-8937-1165308984CF": "font-weight"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E1C1D90-A40A-48F6-94CE-3A7E6EC298EF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2F5631FB-EA67-44F1-8839-4A48716EA9EC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
