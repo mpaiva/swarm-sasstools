@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5F924535-7164-4354-B80E-0DB812E967A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B746CD08-11CA-4ED7-8C46-5B92464A5BC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF7E1808-D0C1-4448-98EB-DC23AA402B29",
+    "height": 40,
+    "width": 120,
+    "x": 1267,
+    "y": 422
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "token",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB654A39-AAEC-47BD-B4C4-44A4800B02B7",
+      "overrideName": "7BC216DF-1FC1-4174-A085-5EED67868F5B_stringValue",
+      "value": "$font-size-display3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1640B890-8743-4BA8-BAAF-497F89C32445",
+      "overrideName": "694D2B77-5C7D-4938-A492-A222176DC122_stringValue",
+      "value": "28px"
+    }
+  ],
+  "overrides": {
+    "694D2B77-5C7D-4938-A492-A222176DC122": "28px",
+    "7BC216DF-1FC1-4174-A085-5EED67868F5B": "$font-size-display3"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "9881429C-3C3C-478F-B123-9324941572CA",
+      "opacity": 0.4000000059604645
+    },
+    "do_objectID": "3DADB7C3-996A-40E3-8845-F3A94759E96C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CFD47FB8-B386-407D-A223-564217295E72",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

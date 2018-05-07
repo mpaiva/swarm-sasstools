@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0DAE8CDE-6651-4ABE-AB5B-73122812558C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB3C998F-1128-4AAA-BD4E-8C5BA318EAB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA094E70-055D-477E-8F8D-F4FA5107394E",
+    "height": 80,
+    "width": 231,
+    "x": 269,
+    "y": 542
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "token",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AA37C69B-91DC-4CBB-B71F-F340085150ED_stringValue",
+      "value": "string"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "898FD1A8-3255-45D9-A167-EF47A2CABC79_stringValue",
+      "value": "heights"
+    }
+  ],
+  "overrides": {
+    "898FD1A8-3255-45D9-A167-EF47A2CABC79": "heights",
+    "AA37C69B-91DC-4CBB-B71F-F340085150ED": "string"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "39EA3502-EADE-42EF-9810-E068B3EC911E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15,
+      "type": 0
+    },
+    "do_objectID": "1E88DE1F-39C2-4E55-88DF-F95AAB97D68E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "106D71FA-4CCB-4DB0-BC31-7B34F08891AA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
