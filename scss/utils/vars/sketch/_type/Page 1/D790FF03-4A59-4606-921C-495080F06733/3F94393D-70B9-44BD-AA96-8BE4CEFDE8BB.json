@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "token",
-  "nameIsFixed": false,
+  "name": "$line-height",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
